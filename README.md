@@ -61,6 +61,6 @@ A formação proporcionou uma base sólida em Python, passando desde os fundamen
 
 ---
 
-**Formação:** Python Fundamentals  
-**Plataforma:** DIO  
-**Status:** ✅ Concluída
+## 📜 Certificado
+
+![Certificado Python Fundamentals](./Certificado.jpg)
