@@ -1,0 +1,2 @@
+[2026-10-02 11:47:06] Função 'criar_cliente' executada com argumentos ([<PessoaFisica: ('123')>],) e {}.Retornou None
+[2026-10-02 11:47:45] Função 'depositar' executada com argumentos ([<PessoaFisica: ('123')>],) e {}.Retornou None
